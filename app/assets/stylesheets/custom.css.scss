@@ -49,6 +49,14 @@ p {
   font-size: 1.1em; line-height: 1.7em;
 }
 
+.jumbotron{
+    background: url("landing.png") no-repeat center center; 
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+
 /* header */
 
 #logo {
